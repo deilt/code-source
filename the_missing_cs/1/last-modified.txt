@@ -1,0 +1,4 @@
+2023年 07月 10日 星期一 19:10:15 CST
+last-modified: Sat, 10 Jun 2023 13:13:30 GMT
+# ./semester | grep last-modified >> last-modified.txt
+# date -r semeter
